@@ -1,0 +1,46 @@
+.total .x-grid-cell {
+    background-color: #C2E0FF;
+    
+}
+
+$panel-frame-background-color: #FF0000 !default;
+ 
+.tax .x-grid-cell { 
+    background-color: #FFC2C2;
+    
+}
+
+.item .x-grid-cell { 
+    background-color: #F5FFFF;
+
+}
+
+
+.x-item-enabled {
+	
+	font-weight:normal !important;
+	font-color:red;
+	
+}
+
+.readOnly {
+	
+	font-weight:12px !important;
+	color:red !important;
+	font-color:red !important;
+	
+}
+
+
+.header {
+	
+	margin: 0.5% 5% 0.5% 0.5%  !important;
+	font-family:"Oswald", sans-serif;
+	font-size:20px;
+
+}
+.footer {
+	
+	background-color:#B6CECE;
+	text-align:center;
+}

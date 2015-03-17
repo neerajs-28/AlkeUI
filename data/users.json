@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "total": 10,
+  "users": [
+    {
+      "srNo": 1,
+      "invoiceId": "AFP/INV/0001",
+      "compName": "Bright Engineering",
+      "saleWoT": 43970,
+      "saleWT": 46169,
+      "sellDate": "01-04-2014",
+      "tax": 2199
+    },
+    {
+      "srNo": 2,
+      "invoiceId": "AFP/INV/0002",
+      "compName": "Bright Engineering",
+      "saleWoT": 16500,
+      "saleWT": 18563,
+      "sellDate": "02-04-2014",
+      "tax": 189
+    }
+  ]
+}

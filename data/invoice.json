@@ -1,0 +1,63 @@
+{
+
+ "success": true,
+ "invoice":[
+	 	{'srNo':'1',
+	 	  'itemName':'Fr Coverall Size L',
+	 	  'groupName':'A-Items',
+	 	  'rate':'1200',
+	 	  'qty':'10',
+	 	  'total':'12,000'
+	 },	{'srNo':'2',
+	 	  'itemName':'Fr Coverall Size XL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'500',
+	 	  'qty':'5',
+	 	  'total':'2,500'
+	 },	{'srNo':'3',
+	 	  'itemName':'Fr Coverall Size XXL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'600',
+	 	  'qty':'10',
+	 	  'total':'6,000'
+	 },	{'srNo':'3',
+	 	  'itemName':'Fr Coverall Size XXL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'600',
+	 	  'qty':'10',
+	 	  'total':'6,000'
+	 },	{'srNo':'3',
+	 	  'itemName':'Fr Coverall Size XXL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'600',
+	 	  'qty':'10',
+	 	  'total':'6,000'
+	 },	{'srNo':'3',
+	 	  'itemName':'Fr Coverall Size XXL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'600',
+	 	  'qty':'10',
+	 	  'total':'6,000'
+	 },	{'srNo':'3',
+	 	  'itemName':'Fr Coverall Size XXL',
+	 	  'groupName':'A-Items',
+	 	  'rate':'600',
+	 	  'qty':'10',
+	 	  'total':'6,000'
+	 },{'srNo':'',
+	 	  'itemName':'VAT',
+	 	  'groupName':'B-Tax',
+	 	  'rate':'12.5%',
+	 	  'qty':'',
+	 	  'total':'2,678'
+	 
+	 },{'srNo':'',
+	 	  'itemName':'Total',
+	 	  'groupName':'C-GTotal',
+	 	  'rate':'',
+	 	  'qty':'',
+	 	  'total':'18,500'
+	 
+	 }]
+	 
+}
